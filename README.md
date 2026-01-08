@@ -5,13 +5,13 @@ Welcome
 ##  Github data 
 <p align="center">
 
-  <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Follow+Github+Fhrydl+^_^" alt="UwU">
+  <a href="https://github.com/Fhrydl"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Follow+Github+Fhrydl+^_^" alt="UwU">
   
 >
 > *Number of visitors*
 * **Visitor Github @Fhrydl**
 
-     ![DUMAI-991](https://komarev.com/ghpvc/?username=Dra-Ganzz&color=blue)
+     ![DUMAI-991](https://komarev.com/ghpvc/?username=Fhrydl&color=blue)
 >
 
 ### About Me
