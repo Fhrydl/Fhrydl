@@ -2,7 +2,7 @@ Welcome
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
-## ★ Github data ★
+##  Github data 
 <p align="center">
 
   <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Follow+Github+Fhrydl+^_^" alt="UwU">
